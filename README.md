@@ -1,1 +1,1 @@
-# GE2340-Formality-Transfer
+# Formality-Transfer
